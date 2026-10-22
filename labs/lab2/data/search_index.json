@@ -1,0 +1,1040 @@
+[
+  {
+    "name": "Aatrox",
+    "class": "Juggernaut",
+    "releaseDate": "2013-06-13",
+    "version": "V26.19"
+  },
+  {
+    "name": "Ahri",
+    "class": "Burst",
+    "releaseDate": "2011-12-14",
+    "version": "V26.06"
+  },
+  {
+    "name": "Akali",
+    "class": "Assassin",
+    "releaseDate": "2010-05-11",
+    "version": "V26.17"
+  },
+  {
+    "name": "Akshan",
+    "class": "Marksman Assassin",
+    "releaseDate": "2021-07-22",
+    "version": "V26.16"
+  },
+  {
+    "name": "Alistar",
+    "class": "Vanguard",
+    "releaseDate": "2009-02-21",
+    "version": "V26.15"
+  },
+  {
+    "name": "Ambessa",
+    "class": "Diver Skirmisher",
+    "releaseDate": "2024-11-06",
+    "version": "V26.20"
+  },
+  {
+    "name": "Amumu",
+    "class": "Vanguard",
+    "releaseDate": "2009-06-26",
+    "version": "V25.18"
+  },
+  {
+    "name": "Anivia",
+    "class": "Battlemage",
+    "releaseDate": "2009-07-10",
+    "version": "V26.10"
+  },
+  {
+    "name": "Annie",
+    "class": "Burst",
+    "releaseDate": "2009-02-21",
+    "version": "V26.04"
+  },
+  {
+    "name": "Aphelios",
+    "class": "Marksman",
+    "releaseDate": "2019-12-11",
+    "version": "V26.19"
+  },
+  {
+    "name": "Ashe",
+    "class": "Marksman",
+    "releaseDate": "2009-02-21",
+    "version": "V26.20"
+  },
+  {
+    "name": "Aurelion Sol",
+    "class": "Battlemage",
+    "releaseDate": "2016-03-24",
+    "version": "V26.17"
+  },
+  {
+    "name": "Aurora",
+    "class": "Burst Assassin",
+    "releaseDate": "2024-07-17",
+    "version": "V26.19"
+  },
+  {
+    "name": "Azir",
+    "class": "Specialist",
+    "releaseDate": "2014-09-16",
+    "version": "V26.21"
+  },
+  {
+    "name": "Bard",
+    "class": "Catcher",
+    "releaseDate": "2015-03-12",
+    "version": "V26.18"
+  },
+  {
+    "name": "Bel'Veth",
+    "class": "Skirmisher",
+    "releaseDate": "2022-06-09",
+    "version": "V26.16"
+  },
+  {
+    "name": "Blitzcrank",
+    "class": "Catcher",
+    "releaseDate": "2009-09-02",
+    "version": "V25.22"
+  },
+  {
+    "name": "Brand",
+    "class": "Burst",
+    "releaseDate": "2011-04-12",
+    "version": "V26.13"
+  },
+  {
+    "name": "Braum",
+    "class": "Warden",
+    "releaseDate": "2014-05-12",
+    "version": "V26.04"
+  },
+  {
+    "name": "Briar",
+    "class": "Diver",
+    "releaseDate": "2023-09-14",
+    "version": "V26.21"
+  },
+  {
+    "name": "Caitlyn",
+    "class": "Marksman",
+    "releaseDate": "2011-01-04",
+    "version": "V26.21"
+  },
+  {
+    "name": "Camille",
+    "class": "Diver",
+    "releaseDate": "2016-12-07",
+    "version": "V26.19"
+  },
+  {
+    "name": "Cassiopeia",
+    "class": "Battlemage",
+    "releaseDate": "2010-12-14",
+    "version": "V26.20"
+  },
+  {
+    "name": "Cho'Gath",
+    "class": "Specialist",
+    "releaseDate": "2009-06-26",
+    "version": "V26.17"
+  },
+  {
+    "name": "Corki",
+    "class": "Marksman",
+    "releaseDate": "2009-09-19",
+    "version": "V26.16"
+  },
+  {
+    "name": "Darius",
+    "class": "Juggernaut",
+    "releaseDate": "2012-05-23",
+    "version": "V26.21"
+  },
+  {
+    "name": "Diana",
+    "class": "Assassin Diver",
+    "releaseDate": "2012-08-07",
+    "version": "V26.20"
+  },
+  {
+    "name": "Dr. Mundo",
+    "class": "Juggernaut",
+    "releaseDate": "2009-09-02",
+    "version": "V26.08"
+  },
+  {
+    "name": "Draven",
+    "class": "Marksman",
+    "releaseDate": "2012-06-06",
+    "version": "V26.19"
+  },
+  {
+    "name": "Ekko",
+    "class": "Assassin",
+    "releaseDate": "2015-05-29",
+    "version": "V26.18"
+  },
+  {
+    "name": "Elise",
+    "class": "Diver",
+    "releaseDate": "2012-10-26",
+    "version": "V26.19"
+  },
+  {
+    "name": "Evelynn",
+    "class": "Assassin",
+    "releaseDate": "2009-05-01",
+    "version": "V25.14"
+  },
+  {
+    "name": "Ezreal",
+    "class": "Marksman",
+    "releaseDate": "2010-03-16",
+    "version": "V26.16"
+  },
+  {
+    "name": "Fiddlesticks",
+    "class": "Specialist",
+    "releaseDate": "2009-02-21",
+    "version": "V26.03"
+  },
+  {
+    "name": "Fiora",
+    "class": "Skirmisher",
+    "releaseDate": "2012-02-29",
+    "version": "V26.19"
+  },
+  {
+    "name": "Fizz",
+    "class": "Assassin",
+    "releaseDate": "2011-11-15",
+    "version": "V26.04"
+  },
+  {
+    "name": "Galio",
+    "class": "Warden",
+    "releaseDate": "2010-08-10",
+    "version": "V26.10"
+  },
+  {
+    "name": "Gangplank",
+    "class": "Specialist",
+    "releaseDate": "2009-08-19",
+    "version": "V26.01"
+  },
+  {
+    "name": "Garen",
+    "class": "Juggernaut",
+    "releaseDate": "2010-04-27",
+    "version": "V26.14"
+  },
+  {
+    "name": "Gnar",
+    "class": "Specialist",
+    "releaseDate": "2014-08-14",
+    "version": "V25.16"
+  },
+  {
+    "name": "Gragas",
+    "class": "Vanguard",
+    "releaseDate": "2010-02-02",
+    "version": "V26.09"
+  },
+  {
+    "name": "Graves",
+    "class": "Specialist",
+    "releaseDate": "2011-10-19",
+    "version": "V26.17"
+  },
+  {
+    "name": "Gwen",
+    "class": "Skirmisher",
+    "releaseDate": "2021-04-15",
+    "version": "V26.16"
+  },
+  {
+    "name": "Hecarim",
+    "class": "Diver",
+    "releaseDate": "2012-04-18",
+    "version": "V26.03"
+  },
+  {
+    "name": "Heimerdinger",
+    "class": "Specialist",
+    "releaseDate": "2009-10-10",
+    "version": "V26.11"
+  },
+  {
+    "name": "Hwei",
+    "class": "Artillery",
+    "releaseDate": "2023-12-05",
+    "version": "V26.12"
+  },
+  {
+    "name": "Illaoi",
+    "class": "Juggernaut",
+    "releaseDate": "2015-11-24",
+    "version": "V26.04"
+  },
+  {
+    "name": "Irelia",
+    "class": "Diver",
+    "releaseDate": "2010-11-16",
+    "version": "V26.17"
+  },
+  {
+    "name": "Ivern",
+    "class": "Catcher",
+    "releaseDate": "2016-10-05",
+    "version": "V26.07"
+  },
+  {
+    "name": "Janna",
+    "class": "Enchanter",
+    "releaseDate": "2009-09-02",
+    "version": "V25.16"
+  },
+  {
+    "name": "Jarvan IV",
+    "class": "Diver",
+    "releaseDate": "2011-03-01",
+    "version": "V25.19"
+  },
+  {
+    "name": "Jax",
+    "class": "Skirmisher",
+    "releaseDate": "2009-02-21",
+    "version": "V26.12"
+  },
+  {
+    "name": "Jayce",
+    "class": "Artillery",
+    "releaseDate": "2012-07-07",
+    "version": "V26.17"
+  },
+  {
+    "name": "Jhin",
+    "class": "Marksman Catcher",
+    "releaseDate": "2016-02-01",
+    "version": "V26.16"
+  },
+  {
+    "name": "Jinx",
+    "class": "Marksman",
+    "releaseDate": "2013-10-10",
+    "version": "V26.21"
+  },
+  {
+    "name": "K'Sante",
+    "class": "Warden Skirmisher",
+    "releaseDate": "2022-11-02",
+    "version": "V26.20"
+  },
+  {
+    "name": "Kai'Sa",
+    "class": "Marksman",
+    "releaseDate": "2018-03-07",
+    "version": "V26.16"
+  },
+  {
+    "name": "Kalista",
+    "class": "Marksman",
+    "releaseDate": "2014-11-20",
+    "version": "V26.16"
+  },
+  {
+    "name": "Karma",
+    "class": "Burst Enchanter",
+    "releaseDate": "2011-02-01",
+    "version": "V26.10"
+  },
+  {
+    "name": "Karthus",
+    "class": "Battlemage",
+    "releaseDate": "2009-06-12",
+    "version": "V26.03"
+  },
+  {
+    "name": "Kassadin",
+    "class": "Assassin",
+    "releaseDate": "2009-08-07",
+    "version": "V26.18"
+  },
+  {
+    "name": "Katarina",
+    "class": "Assassin",
+    "releaseDate": "2009-09-19",
+    "version": "V26.08"
+  },
+  {
+    "name": "Kayle",
+    "class": "Specialist",
+    "releaseDate": "2009-02-21",
+    "version": "V26.04"
+  },
+  {
+    "name": "Kayn",
+    "class": "Skirmisher",
+    "releaseDate": "2017-07-12",
+    "version": "V26.03"
+  },
+  {
+    "name": "Kennen",
+    "class": "Specialist",
+    "releaseDate": "2010-04-08",
+    "version": "V26.20"
+  },
+  {
+    "name": "Kha'Zix",
+    "class": "Assassin",
+    "releaseDate": "2012-09-27",
+    "version": "V26.19"
+  },
+  {
+    "name": "Kindred",
+    "class": "Marksman",
+    "releaseDate": "2015-10-14",
+    "version": "V26.20"
+  },
+  {
+    "name": "Kled",
+    "class": "Skirmisher",
+    "releaseDate": "2016-08-10",
+    "version": "V26.21"
+  },
+  {
+    "name": "Kog'Maw",
+    "class": "Marksman",
+    "releaseDate": "2010-06-24",
+    "version": "V26.16"
+  },
+  {
+    "name": "LeBlanc",
+    "class": "Burst Assassin",
+    "releaseDate": "2010-11-02",
+    "version": "V26.17"
+  },
+  {
+    "name": "Lee Sin",
+    "class": "Diver",
+    "releaseDate": "2011-04-01",
+    "version": "V26.21"
+  },
+  {
+    "name": "Leona",
+    "class": "Vanguard",
+    "releaseDate": "2011-07-13",
+    "version": "V25.20"
+  },
+  {
+    "name": "Lillia",
+    "class": "Skirmisher",
+    "releaseDate": "2020-07-22",
+    "version": "V26.20"
+  },
+  {
+    "name": "Lissandra",
+    "class": "Burst",
+    "releaseDate": "2013-04-30",
+    "version": "V26.10"
+  },
+  {
+    "name": "Locke",
+    "class": "Assassin",
+    "releaseDate": "2026-06-24",
+    "version": "V26.21"
+  },
+  {
+    "name": "Lucian",
+    "class": "Marksman",
+    "releaseDate": "2013-08-22",
+    "version": "V26.20"
+  },
+  {
+    "name": "Lulu",
+    "class": "Enchanter",
+    "releaseDate": "2012-03-20",
+    "version": "V25.16"
+  },
+  {
+    "name": "Lux",
+    "class": "Burst Artillery",
+    "releaseDate": "2010-10-19",
+    "version": "V26.04"
+  },
+  {
+    "name": "Malphite",
+    "class": "Vanguard",
+    "releaseDate": "2009-09-02",
+    "version": "V26.09"
+  },
+  {
+    "name": "Malzahar",
+    "class": "Battlemage",
+    "releaseDate": "2010-06-01",
+    "version": "V25.04"
+  },
+  {
+    "name": "Maokai",
+    "class": "Vanguard",
+    "releaseDate": "2011-02-16",
+    "version": "V26.15"
+  },
+  {
+    "name": "Master Yi",
+    "class": "Skirmisher",
+    "releaseDate": "2009-02-21",
+    "version": "V26.19"
+  },
+  {
+    "name": "Mel",
+    "class": "Artillery",
+    "releaseDate": "2025-01-23",
+    "version": "V26.08"
+  },
+  {
+    "name": "Milio",
+    "class": "Enchanter",
+    "releaseDate": "2023-03-23",
+    "version": "V26.11"
+  },
+  {
+    "name": "Miss Fortune",
+    "class": "Marksman",
+    "releaseDate": "2010-09-08",
+    "version": "V26.21"
+  },
+  {
+    "name": "Mordekaiser",
+    "class": "Juggernaut",
+    "releaseDate": "2010-02-24",
+    "version": "V26.20"
+  },
+  {
+    "name": "Morgana",
+    "class": "Catcher",
+    "releaseDate": "2009-02-21",
+    "version": "V25.21"
+  },
+  {
+    "name": "Naafiri",
+    "class": "Assassin",
+    "releaseDate": "2023-07-19",
+    "version": "V26.15"
+  },
+  {
+    "name": "Nami",
+    "class": "Enchanter",
+    "releaseDate": "2012-12-07",
+    "version": "V26.14"
+  },
+  {
+    "name": "Nasus",
+    "class": "Juggernaut",
+    "releaseDate": "2009-10-01",
+    "version": "V26.19"
+  },
+  {
+    "name": "Nautilus",
+    "class": "Vanguard",
+    "releaseDate": "2012-02-14",
+    "version": "V26.18"
+  },
+  {
+    "name": "Neeko",
+    "class": "Burst Catcher",
+    "releaseDate": "2018-12-05",
+    "version": "V26.20"
+  },
+  {
+    "name": "Nidalee",
+    "class": "Specialist",
+    "releaseDate": "2009-12-17",
+    "version": "V26.21"
+  },
+  {
+    "name": "Nilah",
+    "class": "Skirmisher",
+    "releaseDate": "2022-07-13",
+    "version": "V26.15"
+  },
+  {
+    "name": "Nocturne",
+    "class": "Assassin",
+    "releaseDate": "2011-03-15",
+    "version": "V26.19"
+  },
+  {
+    "name": "Nunu",
+    "class": "Vanguard",
+    "releaseDate": "2009-02-21",
+    "version": "V26.19"
+  },
+  {
+    "name": "Olaf",
+    "class": "Diver",
+    "releaseDate": "2010-06-09",
+    "version": "V26.13"
+  },
+  {
+    "name": "Orianna",
+    "class": "Burst",
+    "releaseDate": "2011-06-01",
+    "version": "V26.21"
+  },
+  {
+    "name": "Ornn",
+    "class": "Vanguard",
+    "releaseDate": "2017-08-23",
+    "version": "V26.07"
+  },
+  {
+    "name": "Pantheon",
+    "class": "Diver",
+    "releaseDate": "2010-02-02",
+    "version": "V25.20"
+  },
+  {
+    "name": "Poppy",
+    "class": "Warden",
+    "releaseDate": "2010-01-13",
+    "version": "V26.19"
+  },
+  {
+    "name": "Pyke",
+    "class": "Assassin Catcher",
+    "releaseDate": "2018-05-31",
+    "version": "V26.06"
+  },
+  {
+    "name": "Qiyana",
+    "class": "Assassin",
+    "releaseDate": "2019-06-28",
+    "version": "V26.21"
+  },
+  {
+    "name": "Quinn",
+    "class": "Specialist",
+    "releaseDate": "2013-03-01",
+    "version": "V26.16"
+  },
+  {
+    "name": "Rakan",
+    "class": "Catcher",
+    "releaseDate": "2017-04-19",
+    "version": "V25.19"
+  },
+  {
+    "name": "Rammus",
+    "class": "Vanguard",
+    "releaseDate": "2009-07-10",
+    "version": "V26.21"
+  },
+  {
+    "name": "Rek'Sai",
+    "class": "Diver",
+    "releaseDate": "2014-12-11",
+    "version": "V26.13"
+  },
+  {
+    "name": "Rell",
+    "class": "Vanguard",
+    "releaseDate": "2020-12-10",
+    "version": "V26.09"
+  },
+  {
+    "name": "Renata Glasc",
+    "class": "Enchanter",
+    "releaseDate": "2022-02-17",
+    "version": "V26.19"
+  },
+  {
+    "name": "Renekton",
+    "class": "Diver",
+    "releaseDate": "2011-01-18",
+    "version": "V26.19"
+  },
+  {
+    "name": "Rengar",
+    "class": "Assassin Diver",
+    "releaseDate": "2012-08-21",
+    "version": "V26.05"
+  },
+  {
+    "name": "Riven",
+    "class": "Skirmisher",
+    "releaseDate": "2011-09-14",
+    "version": "V26.15"
+  },
+  {
+    "name": "Rumble",
+    "class": "Battlemage",
+    "releaseDate": "2011-04-26",
+    "version": "V26.19"
+  },
+  {
+    "name": "Ryze",
+    "class": "Battlemage",
+    "releaseDate": "2009-02-21",
+    "version": "V26.21"
+  },
+  {
+    "name": "Samira",
+    "class": "Marksman",
+    "releaseDate": "2020-09-21",
+    "version": "V26.16"
+  },
+  {
+    "name": "Sejuani",
+    "class": "Vanguard",
+    "releaseDate": "2012-01-17",
+    "version": "V25.24"
+  },
+  {
+    "name": "Senna",
+    "class": "Marksman Enchanter",
+    "releaseDate": "2019-11-10",
+    "version": "V26.16"
+  },
+  {
+    "name": "Seraphine",
+    "class": "Burst Enchanter",
+    "releaseDate": "2020-10-29",
+    "version": "V26.18"
+  },
+  {
+    "name": "Sett",
+    "class": "Juggernaut",
+    "releaseDate": "2020-01-14",
+    "version": "V25.17"
+  },
+  {
+    "name": "Shaco",
+    "class": "Assassin",
+    "releaseDate": "2009-10-10",
+    "version": "V26.11"
+  },
+  {
+    "name": "Shen",
+    "class": "Warden",
+    "releaseDate": "2010-03-24",
+    "version": "V26.06"
+  },
+  {
+    "name": "Shyvana",
+    "class": "Diver",
+    "releaseDate": "2011-11-01",
+    "version": "V26.20"
+  },
+  {
+    "name": "Singed",
+    "class": "Specialist",
+    "releaseDate": "2009-04-18",
+    "version": "V26.07"
+  },
+  {
+    "name": "Sion",
+    "class": "Vanguard",
+    "releaseDate": "2009-02-21",
+    "version": "V26.21"
+  },
+  {
+    "name": "Sivir",
+    "class": "Marksman",
+    "releaseDate": "2009-02-21",
+    "version": "V26.20"
+  },
+  {
+    "name": "Skarner",
+    "class": "Vanguard Juggernaut",
+    "releaseDate": "2011-08-09",
+    "version": "V26.06"
+  },
+  {
+    "name": "Smolder",
+    "class": "Marksman",
+    "releaseDate": "2024-01-31",
+    "version": "V26.20"
+  },
+  {
+    "name": "Sona",
+    "class": "Enchanter",
+    "releaseDate": "2010-09-21",
+    "version": "V25.22"
+  },
+  {
+    "name": "Soraka",
+    "class": "Enchanter",
+    "releaseDate": "2009-02-21",
+    "version": "V25.20"
+  },
+  {
+    "name": "Swain",
+    "class": "Battlemage",
+    "releaseDate": "2010-10-05",
+    "version": "V26.20"
+  },
+  {
+    "name": "Sylas",
+    "class": "Burst Skirmisher",
+    "releaseDate": "2019-01-25",
+    "version": "V26.20"
+  },
+  {
+    "name": "Syndra",
+    "class": "Burst",
+    "releaseDate": "2012-09-13",
+    "version": "V26.18"
+  },
+  {
+    "name": "Tahm Kench",
+    "class": "Warden",
+    "releaseDate": "2015-07-09",
+    "version": "V26.20"
+  },
+  {
+    "name": "Taliyah",
+    "class": "Battlemage",
+    "releaseDate": "2016-05-18",
+    "version": "V26.21"
+  },
+  {
+    "name": "Talon",
+    "class": "Assassin",
+    "releaseDate": "2011-08-24",
+    "version": "V25.22"
+  },
+  {
+    "name": "Taric",
+    "class": "Enchanter Warden",
+    "releaseDate": "2009-08-19",
+    "version": "V26.21"
+  },
+  {
+    "name": "Teemo",
+    "class": "Specialist",
+    "releaseDate": "2009-02-21",
+    "version": "V26.11"
+  },
+  {
+    "name": "Thresh",
+    "class": "Catcher",
+    "releaseDate": "2013-01-23",
+    "version": "V26.17"
+  },
+  {
+    "name": "Tristana",
+    "class": "Marksman",
+    "releaseDate": "2009-02-21",
+    "version": "V26.21"
+  },
+  {
+    "name": "Trundle",
+    "class": "Juggernaut",
+    "releaseDate": "2010-12-01",
+    "version": "V26.17"
+  },
+  {
+    "name": "Tryndamere",
+    "class": "Skirmisher",
+    "releaseDate": "2009-05-01",
+    "version": "V26.06"
+  },
+  {
+    "name": "Twisted Fate",
+    "class": "Burst",
+    "releaseDate": "2009-02-21",
+    "version": "V26.21"
+  },
+  {
+    "name": "Twitch",
+    "class": "Marksman",
+    "releaseDate": "2009-05-01",
+    "version": "V26.16"
+  },
+  {
+    "name": "Udyr",
+    "class": "Juggernaut",
+    "releaseDate": "2009-12-02",
+    "version": "V26.09"
+  },
+  {
+    "name": "Urgot",
+    "class": "Juggernaut",
+    "releaseDate": "2010-08-24",
+    "version": "V25.06"
+  },
+  {
+    "name": "Varus",
+    "class": "Marksman Artillery",
+    "releaseDate": "2012-05-08",
+    "version": "V26.21"
+  },
+  {
+    "name": "Vayne",
+    "class": "Marksman",
+    "releaseDate": "2011-05-10",
+    "version": "V26.20"
+  },
+  {
+    "name": "Veigar",
+    "class": "Burst",
+    "releaseDate": "2009-07-24",
+    "version": "V26.07"
+  },
+  {
+    "name": "Vel'Koz",
+    "class": "Artillery",
+    "releaseDate": "2014-02-27",
+    "version": "V26.21"
+  },
+  {
+    "name": "Vex",
+    "class": "Burst",
+    "releaseDate": "2021-09-23",
+    "version": "V26.13"
+  },
+  {
+    "name": "Vi",
+    "class": "Diver",
+    "releaseDate": "2012-12-19",
+    "version": "V26.19"
+  },
+  {
+    "name": "Viego",
+    "class": "Skirmisher",
+    "releaseDate": "2021-01-21",
+    "version": "V26.18"
+  },
+  {
+    "name": "Viktor",
+    "class": "Battlemage",
+    "releaseDate": "2011-12-29",
+    "version": "V26.21"
+  },
+  {
+    "name": "Vladimir",
+    "class": "Battlemage",
+    "releaseDate": "2010-07-27",
+    "version": "V26.17"
+  },
+  {
+    "name": "Volibear",
+    "class": "Juggernaut",
+    "releaseDate": "2011-11-29",
+    "version": "V26.19"
+  },
+  {
+    "name": "Warwick",
+    "class": "Diver",
+    "releaseDate": "2009-02-21",
+    "version": "V26.09"
+  },
+  {
+    "name": "Wukong",
+    "class": "Diver",
+    "releaseDate": "2011-07-26",
+    "version": "V26.21"
+  },
+  {
+    "name": "Xayah",
+    "class": "Marksman",
+    "releaseDate": "2017-04-19",
+    "version": "V26.16"
+  },
+  {
+    "name": "Xerath",
+    "class": "Artillery",
+    "releaseDate": "2011-10-05",
+    "version": "V26.17"
+  },
+  {
+    "name": "Xin Zhao",
+    "class": "Diver",
+    "releaseDate": "2010-07-13",
+    "version": "V26.21"
+  },
+  {
+    "name": "Yasuo",
+    "class": "Skirmisher",
+    "releaseDate": "2013-12-13",
+    "version": "V26.17"
+  },
+  {
+    "name": "Yone",
+    "class": "Assassin Skirmisher",
+    "releaseDate": "2020-08-06",
+    "version": "V26.21"
+  },
+  {
+    "name": "Yorick",
+    "class": "Juggernaut",
+    "releaseDate": "2011-06-22",
+    "version": "V26.03"
+  },
+  {
+    "name": "Yunara",
+    "class": "Marksman",
+    "releaseDate": "2025-07-16",
+    "version": "V26.20"
+  },
+  {
+    "name": "Yuumi",
+    "class": "Enchanter",
+    "releaseDate": "2019-05-14",
+    "version": "V26.12"
+  },
+  {
+    "name": "Zaahen",
+    "class": "Skirmisher",
+    "releaseDate": "2025-11-19",
+    "version": "V26.21"
+  },
+  {
+    "name": "Zac",
+    "class": "Vanguard",
+    "releaseDate": "2013-03-29",
+    "version": "V26.15"
+  },
+  {
+    "name": "Zed",
+    "class": "Assassin",
+    "releaseDate": "2012-11-13",
+    "version": "V26.10"
+  },
+  {
+    "name": "Zeri",
+    "class": "Marksman",
+    "releaseDate": "2022-01-20",
+    "version": "V26.18"
+  },
+  {
+    "name": "Ziggs",
+    "class": "Artillery",
+    "releaseDate": "2012-02-01",
+    "version": "V26.03"
+  },
+  {
+    "name": "Zilean",
+    "class": "Specialist",
+    "releaseDate": "2009-04-18",
+    "version": "V26.08"
+  },
+  {
+    "name": "Zoe",
+    "class": "Burst",
+    "releaseDate": "2017-11-21",
+    "version": "V26.21"
+  },
+  {
+    "name": "Zyra",
+    "class": "Catcher",
+    "releaseDate": "2012-07-24",
+    "version": "V26.21"
+  }
+]
