@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Scraped Data Search Index</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Jumps keyboard users straight to the results -->
+    <a class="skip-link" href="#resultsHeading">Skip to results</a>
+
+    <header class="container mt-5 mb-4">
+        <h1>Champion Search Index</h1>
+    </header>
+
+    <main class="container mb-5">
+
+        <!-- Search and filter controls -->
+        <section class="card mb-5 shadow-sm" aria-labelledby="filterHeading">
+            <div class="card-header bg-dark text-white">
+                <h2 id="filterHeading" class="card-title m-0 h5">Filter Scraped Data</h2>
+            </div>
+            <div class="card-body">
+                <form id="searchForm" role="search" aria-labelledby="filterHeading" novalidate>
+                    <div class="row align-items-end">
+
+                        <!-- Search Input Field -->
+                        <div class="col-md-6 col-lg-5 mb-3">
+                            <label for="searchInput">Search by name or class</label>
+                            <input type="search" id="searchInput" class="form-control"
+                                   autocomplete="off" aria-controls="resultsList">
+                        </div>
+
+                        <!-- Class Filter Dropdown -->
+                        <div class="col-md-6 col-lg-3 mb-3">
+                            <label for="classFilter">Filter by class</label>
+                            <select id="classFilter" class="form-control" aria-controls="resultsList">
+                                <option value="">All Classes</option>
+                                <option value="Artillery">Artillery</option>
+                                <option value="Assassin">Assassin</option>
+                                <option value="Battlemage">Battlemage</option>
+                                <option value="Burst">Burst</option>
+                                <option value="Catcher">Catcher</option>
+                                <option value="Diver">Diver</option>
+                                <option value="Enchanter">Enchanter</option>
+                                <option value="Juggernaut">Juggernaut</option>
+                                <option value="Marksman">Marksman</option>
+                                <option value="Skirmisher">Skirmisher</option>
+                                <option value="Specialist">Specialist</option>
+                                <option value="Vanguard">Vanguard</option>
+                                <option value="Warden">Warden</option>
+                            </select>
+                        </div>
+
+                        <!-- Sort Button -->
+                        <div class="col-6 col-md-3 col-lg-2 mb-3">
+                            <button type="button" id="sortBtn" class="btn btn-outline-dark btn-block"
+                                    aria-controls="resultsList" aria-describedby="sortHint">Sort: A-Z</button>
+                            <span id="sortHint" class="sr-only">Toggles name order between A to Z and Z to A.</span>
+                        </div>
+
+                        <!-- Clear Button -->
+                        <div class="col-6 col-md-3 col-lg-2 mb-3">
+                            <button type="button" id="clearBtn" class="btn btn-outline-dark btn-block"
+                                    aria-controls="resultsList">Clear filters</button>
+                        </div>
+
+                    </div>
+                </form>
+            </div>
+        </section>
+
+        <!-- Results -->
+        <section aria-labelledby="resultsHeading">
+            <h2 id="resultsHeading" class="h4" tabindex="-1">Results</h2>
+
+            <!-- Live region: screen readers announce the result count whenever it changes -->
+            <p id="resultsStatus" class="results-status" role="status" aria-live="polite" aria-atomic="true">Loading champions…</p>
+
+            <!-- Error region: announced immediately if the data fails to load -->
+            <div id="resultsError" class="results-error" role="alert"></div>
+
+            <ul id="resultsList" class="row list-unstyled" role="list" aria-labelledby="resultsHeading"></ul>
+        </section>
+
+    </main>
+
+    <!-- JavaScript Files -->
+    <script src="js/script.js"></script>
+</body>
+</html>
