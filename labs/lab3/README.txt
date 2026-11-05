@@ -7,7 +7,7 @@ For this Lab I chose to base my api off the list of patients at the Vancouver Aq
 * *Date Created*: 05 11 2026
 * *Last Modification Date*: 05 11 2026
 * *Lab Gitlab URL*: https://git.cs.dal.ca/dubois/csci-3172
-* *Render URL*: 
+* *Render URL*: https://csci-3172-lab3-683v.onrender.com/
 
 ENDPOINTS
   GET    /api/items          List all patients
